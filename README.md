@@ -1,30 +1,51 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 💻 Portfólio
 
-## Getting Started
+> Portfólio de desenvolvido com Next.Js e React.Js com intuito de divulgar projetos pessoais e profissionais desenvolvidos!
 
-First, run the development server:
+## 🧐 O que foi utilizado?
 
-```bash
-npm run dev
-# or
+- Next.Js
+- React.Js
+- Styled Components
+- Next Images
+- Typescript
+- Eslint
+- Prettier
+
+## 🛠 Quer testar?
+
+> Você pode realizar o clone deste repostório ou baixar o arquivo .zip!
+
+### Clone o repositório:
+
+```
+git clone https://github.com/huriellopes/portfolio
+```
+
+Para baixar o zip: [https://github.com/huriellopes/portfolio/archive/master.zip](https://github.com/huriellopes/portfolio/archive/master.zip)
+
+## ⚡ Executando o projeto:
+
+### Na raiz do projeto, execute o comando:
+
+```
+# Para instalar as dependências
+yarn ou npm install
+```
+
+## 🚀 Rodando o servidor:
+
+### Para rodar o servidor, execute o comando:
+
+```
+# Para startar a aplicação
 yarn dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+> Obs.: Vai inicializar o servidor e você deverá abrir no navegador o seguinte endereço: http://localhost:3000!
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+## 📑 Licença
 
-## Learn More
+Este projeto está sob a licença MIT. Veja aqui [LICENSE](LICENSE)! Proíbido o uso, direitos de criação reservados!
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<p align="center">Desenvolvido com <span>♥</span> por Huriel Lopes</p>
